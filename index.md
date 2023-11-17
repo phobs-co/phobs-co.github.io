@@ -41,6 +41,9 @@ Together, let's report debris and support Hawai'i!
 ## Milestone 2
 [Milestone 2](https://github.com/orgs/phobs-co/projects/2)
 
+## Milestone 3
+[Milestone 3](https://github.com/orgs/phobs-co/projects/3)
+
 <div style="display: flex;">
     <img src="doc/screenshots/login.png" style="max-width: 33%; padding: 10px;">
     <img src="doc/screenshots/map.png" style="max-width: 33%; padding: 10px;">
