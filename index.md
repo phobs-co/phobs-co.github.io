@@ -33,10 +33,17 @@ The REPPORT App is designed with the following key goals in mind:
 Together, let's report debris and support Hawai'i!
 
 ## Team contract:
-<href="https://docs.google.com/document/d/1hqwtUSlLyOAMSRyKHdL3C6uYKi89OWbeOxxnrKbckJA/edit?usp=sharing">Team Contract</href>
+[Team Contract](https://docs.google.com/document/d/1hqwtUSlLyOAMSRyKHdL3C6uYKi89OWbeOxxnrKbckJA/edit?usp=sharing)
 
 ## Milestone 1
-<href="https://github.com/orgs/phobs-co/projects/1>Milestone 1</href>
+[Milestone 1](https://github.com/orgs/phobs-co/projects/1)
 
 ## Milestone 2
-<href="https://github.com/orgs/phobs-co/projects/2">Milestone 2</href>
+[Milestone 2](https://github.com/orgs/phobs-co/projects/2)
+
+<div style="display: flex;">
+    <img src="doc/screenshots/login.png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/map.png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/registerorg.png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/report.png" style="max-width: 33%; padding: 10px;">
+</div>
