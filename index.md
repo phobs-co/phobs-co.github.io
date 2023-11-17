@@ -31,3 +31,12 @@ The REPPORT App is designed with the following key goals in mind:
 **The REPPORT App seeks to bridge the gap in communication, data collection, and transparency in marine debris management in Hawai'i. By achieving these goals, we aim to empower local communities, organizations, and government agencies to work together efficiently, leading to cleaner oceans and a brighter future for Hawai'i's natural environment.**
 
 Together, let's report debris and support Hawai'i!
+
+## Team contract:
+<href="https://docs.google.com/document/d/1hqwtUSlLyOAMSRyKHdL3C6uYKi89OWbeOxxnrKbckJA/edit?usp=sharing">Team Contract</href>
+
+## Milestone 1
+<href="https://github.com/orgs/phobs-co/projects/1>Milestone 1</href>
+
+## Milestone 2
+<href="https://github.com/orgs/phobs-co/projects/2">Milestone 2</href>
