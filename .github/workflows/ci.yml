@@ -1,4 +1,4 @@
-name: ci-bowfolios-semantic-ui
+name: repport
 
 on:
   push:
