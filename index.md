@@ -5,9 +5,9 @@
 Aloha! We are PHOBS, and we are excited to introduce our innovative solution to address the marine debris problem in Hawai’i. Our REPPORT App is designed to streamline and enhance the communication and coordination among various organizations involved in marine debris removal. We aim to create a centralized database and dispatch system that not only promotes efficient debris removal but also offers a platform for locals to report debris incidents. The ultimate goal of the REPPORT App is to significantly contribute to the preservation of Hawai'i's natural beauty and marine ecosystems.
 
 <div style="display: flex;">
-    <img src="doc/repport-image1.png" style="max-width: 33%; padding: 10px;">
-    <img src="doc/repport-image2.png" style="max-width: 33%; padding: 10px;">
-    <img src="doc/repport-image3.png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/repport-image1.png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/repport-image2.png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/repport-image3.png" style="max-width: 33%; padding: 10px;">
 </div>
 
 
@@ -37,16 +37,21 @@ Together, let's report debris and support Hawai'i!
 
 ## Milestone 1
 [Milestone 1](https://github.com/orgs/phobs-co/projects/1)
-
-## Milestone 2
-[Milestone 2](https://github.com/orgs/phobs-co/projects/2)
-
-## Milestone 3
-[Milestone 3](https://github.com/orgs/phobs-co/projects/3)
-
 <div style="display: flex;">
     <img src="doc/screenshots/login.png" style="max-width: 33%; padding: 10px;">
     <img src="doc/screenshots/map.png" style="max-width: 33%; padding: 10px;">
     <img src="doc/screenshots/registerorg.png" style="max-width: 33%; padding: 10px;">
     <img src="doc/screenshots/report.png" style="max-width: 33%; padding: 10px;">
 </div>
+
+## Milestone 2
+[Milestone 2](https://github.com/orgs/phobs-co/projects/2)
+<div style="display: flex;">
+    <img src="doc/screenshots/editOrgProfile.png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/reportedUnclaimedPage.png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/registerorg.png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/claimedPage.png" style="max-width: 33%; padding: 10px;">
+</div>
+
+## Milestone 3
+[Milestone 3](https://github.com/orgs/phobs-co/projects/3)
