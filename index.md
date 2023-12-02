@@ -1,7 +1,7 @@
 # REPPORT 
+[![ci-meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml)
 ### Report Debris, Support Hawai’i!
 
-[![ci-meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml)
 
 
 ## About Us
@@ -54,6 +54,7 @@ Together, let's report debris and support Hawai'i!
     <img src="doc/screenshots/reportedUnclaimedPage.png" style="max-width: 33%; padding: 10px;">
     <img src="doc/screenshots/registerorg.png" style="max-width: 33%; padding: 10px;">
     <img src="doc/screenshots/claimedPage.png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/storedPage.png" style="max-width: 33%; padding: 10px;">
 </div>
 
 ## Milestone 3
