@@ -1,4 +1,4 @@
-name: repport
+name: ci-meteor-application-template-react
 
 on:
   push:
