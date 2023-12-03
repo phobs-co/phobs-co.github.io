@@ -1,7 +1,6 @@
 # REPPORT 
 [![ci-badge](https://github.com/phobs-co/repport/actions/workflows/ci.yml/badge.svg)](https://github.com/phobs-co/repport/actions/workflows/ci.yml)
 
-[![ci-badge](https://github.com/phobs-co/repport/workflows/repport/badge.svg)](https://github.com/phobs-co/repport/actions/workflows/ci.yml)
 ### Report Debris, Support Hawai’i!
 
 
