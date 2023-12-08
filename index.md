@@ -124,6 +124,8 @@ _(to be added)_
 
 # Community Feedback
 
+> #### At first glance, I noticed
+
 # Developer Guide
 This guide will lead you through the process of downloading, installing, running, and modifying the system for our GitHub public repository.
 
