@@ -66,6 +66,56 @@ Together, let's report debris and support Hawai'i!
 
 <!-- Maybe we can use the screenshots above? -->
 
+Currently there are a few different ways to utilize the Repport website:
+* **Public view:** This allows community members to report found debris without needing an account. 
+* **Signed-in view:** Community members can opt to create an account, which facilitates the process of contacting them.
+* **Organization user signed-in view:** Participating organizations can view submitted debris reports, monitor changes, and update the status of debris they've collected.
+
+## Using Public View
+
+Anyone can report debris. To do this, navigate to the homepage and click the **"Report Debris"** button, which is readily visible in red. You'll be directed to a form where you can enter information about the debris, such as its type and location. After completing the form, click the **Submit** button to send your report to the participating organizations for review.
+
+The process remains the same if you choose to create a personal account to report debris.
+
+## Account Creation
+
+To make a new account, click on the login dropdown on the top right of the navbar. This allows you to create an account using an email and a password. In the future, you can use these credentials to log into the site.
+
+## Organization View
+
+To view reported debris, organizations must sign in with their organizational login credentials. They can register for the site and create a new user account under their organization's name. The links for registration are available in the footer under **"Organization Sign In"** and **"Organization Sign Up"**.
+
+Upon signing in, organization users can access new navigation bar items:
+
+* Reported
+* Claimed
+* Stored
+* Distributed
+* Organization Home
+
+#### Reported
+
+The **Reported** section provides a table listing all newly submitted debris that hasn't been collected yet. This table highlights key information about each debris report and provides two buttons for each entry: **Details** and **Claim**. The **Details** button opens a new page that displays comprehensive information about the debris event and provides options to edit some data. The **Claim** button indicates an organization's intent to collect the debris. Clicking this button transfers the debris report to the "Claimed" section.
+
+#### Claimed
+
+_(to be added)_
+
+#### Stored
+
+_(to be added)_
+
+#### Distributed
+
+_(to be added)_
+
+#### Organization Home
+
+_(to be added)_
+
+
+<!--Map -->
+
 # Community Feedback
 
 # Developer Guide
@@ -86,7 +136,7 @@ $ git clone https://github.com/phobs-co/repport
 
 1. **Meteor Setup**: Meteor is installed globally on your machine. You initialize a new Meteor project using the CLI command `meteor create <app-name>`. This sets up the basic structure of your project, including Meteor, Node.js, and MongoDB.
 
-2. **Project Structure**: A typical Meteor project has three main directories: `/client` (frontend code), `/server` (backend code), and `/both` (code run on both sides). 
+2. **Project Structure**: A typical Meteor project has three main directories: `/client` (frontend code), and `/server` (backend code)
 
 3. **Database (MongoDB)**: MongoDB, Meteor's default database, automatically sets up during project initialization. Collections, set up in the `/both` section, can be observed by both server and client.
 
@@ -102,4 +152,6 @@ $ git clone https://github.com/phobs-co/repport
 
 9. **Building & Running**: You can start your app using `meteor`, which also sets up hot code push and watches for source file changes. On building, Meteor bundles up your JavaScript, CSS, and HTML into minified JavaScript and starts a Node.js server.
 
-Remember, this overview can vary based on actual set-up or project requirements. 
+
+## Template
+This app was started with the help of a template from the University of Hawaii ICS department. If you would like to look at this template, it can be found here: http://ics-software-engineering.github.io/meteor-application-template-react/
