@@ -124,7 +124,10 @@ _(to be added)_
 
 # Community Feedback
 
-> #### At first glance, I noticed
+> #### The website is user-friendly with clear navigation cues. Reporting debris is straightforward, offering multiple options. Functionality is effective, and I haven't encountered issues. It lacks information about the people handling debris cleanup; featuring them could enhance transparency and trust. While images seem sourced from the internet, adding real people associated with the organization could enhance credibility.
+
+> #### The website's simplicity aids in easy navigation, efficiently serving its purpose despite its plain design. The debris reporting section is functional, allowing users to specify the location and type of debris, with a focus on smaller items often left by beachgoers. It's likely that users will predominantly report minor litter issues, such as trash left by beach visitors. There's a potential for users to utilize the platform to draw attention to irresponsible behavior, like families neglecting to clean up after themselves, creating a sense of accountability. While the website's primary function is practical, it also serves as a means for users to encourage responsible behavior through reporting.
+
 
 # Developer Guide
 This guide will lead you through the process of downloading, installing, running, and modifying the system for our GitHub public repository.
