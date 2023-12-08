@@ -5,6 +5,12 @@
 
 # Overview
 
+## Logins for out demo:
+To log in to the site, we have two demo users:
+
+1. Civilian login: john@foo.com
+2. Organization login: org@foo.com
+
 ## About Us
 Aloha! We are PHOBS, and we are excited to introduce our innovative solution to address the marine debris problem in Hawai’i. Our REPPORT App is designed to streamline and enhance the communication and coordination among various organizations involved in marine debris removal. We aim to create a centralized database and dispatch system that not only promotes efficient debris removal but also offers a platform for locals to report debris incidents. The ultimate goal of the REPPORT App is to significantly contribute to the preservation of Hawai'i's natural beauty and marine ecosystems.
 
