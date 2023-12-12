@@ -67,8 +67,9 @@ Together, let's report debris and support Hawai'i!
 ## Milestone 3
 [Milestone 3](https://github.com/orgs/phobs-co/projects/3)
 <div style="display: flex;">
-    <img src="doc/screenshots/editOrgProfile.png" style="max-width: 33%; padding: 10px;">
-    
+    <img src="doc/screenshots/Community Feedback.png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/50 data (2).png" style="max-width: 33%; padding: 10px;">
+    <img src="doc/screenshots/50 sample data.png" style="max-width: 33%; padding: 10px;">
 </div>
 
 # User Guide
